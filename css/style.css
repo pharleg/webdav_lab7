@@ -38,13 +38,6 @@ th {
     color: #fff;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
-
-footer p {
-    font-size: 0.8em;
+tr:nth-child(even) {
+	background-color: #f2f2f2;
 }
