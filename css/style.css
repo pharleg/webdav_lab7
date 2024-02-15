@@ -22,14 +22,14 @@ main {
 }
 
 table {
-    width: 50%;
+    width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
 
 th, td {
     padding: 10px;
-    text-align: left;
+    text-align: center;
     border-bottom: 1px solid #ddd;
 }
 
