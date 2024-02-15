@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    color: #ffffff;
     margin: 0;
     padding: 0;
     background-image: url("../images/background.jpg");
@@ -8,13 +9,14 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding: 20px 0;
 }
 
 h1, h2, h3 {
     text-align: center;
+    color: #ffffff;
 }
 
 main {
